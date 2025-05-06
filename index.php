@@ -6,7 +6,7 @@
 	<title>Coba push lagi</title>
 </head>
 <body>
-	<p>coba lagi</p>	
+	<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Culpa, asperiores odio. Sed minima provident recusandae eius repellat quo dolore fugit nemo odio voluptates beatae accusantium, ipsum libero quasi nihil, rerum.</p>	
 	<ul>
 		<li>1</li>
 		<li>2</li>
